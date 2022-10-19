@@ -7,7 +7,7 @@
  * Return: 0 success
  */
 
-_islower(int c)
+int islower(int c)
 {
 	if (c >= 97 && c <= 122)
 		return (1);
