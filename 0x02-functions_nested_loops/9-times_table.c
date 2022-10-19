@@ -12,7 +12,7 @@ void times_table(void)
 
 	for (l = 0; l <= 9; l++)
 	{
-		for (c = 0; c <=9; c++)
+		for (c = 0; c <= 9; c++)
 		{
 			p = l * c;
 
